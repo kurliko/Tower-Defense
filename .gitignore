@@ -1,0 +1,15 @@
+# pliki kompilacji
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# foldery build
+/build
+/bin
+/obj
+/.vscode
+
+# backupy
+*~
